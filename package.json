@@ -1,0 +1,22 @@
+{
+  "name": "api-lista-de-contato",
+  "version": "1.0.0",
+  "description": "Lista de contatos",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --watch ./src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoaoPopinhak/api-Lista-De-Contato.git"
+  },
+  "author": "João Marcos Popinhak Jr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoaoPopinhak/api-Lista-De-Contato/issues"
+  },
+  "homepage": "https://github.com/JoaoPopinhak/api-Lista-De-Contato#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
