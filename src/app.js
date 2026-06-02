@@ -9,14 +9,13 @@ app.listen(3000, () => {
 
 
 
+//teste
 
 
 
 
 
 
-
-    
     console.log('Servidor rodando...');
 
 });
